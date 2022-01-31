@@ -1,4 +1,3 @@
-# Your name: Alexies Farinas
 # Course number and course section: IS 115-3003
 # Date of completion: 9/28/2020
 # Brief explanation of the program: User inputs the number of rooms booked
