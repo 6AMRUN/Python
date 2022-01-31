@@ -1,4 +1,3 @@
-# Your name: Alexies Farinas
 # Course number and course section: IS 115-3003
 # Date of completion: 9/27/2020
 # Brief explanation of the program: Input age, indicate whether person is infant,
