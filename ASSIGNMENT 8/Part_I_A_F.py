@@ -1,4 +1,3 @@
-#Your full name: Alexies Farinas
 #Date of completion: 10/6/2020
 #Brief explanation of the program: Enter the price of a many items the user want to purchase
 # stop the loop if user enters '-1' and find the amount of items, total price, average price, cheapest price
