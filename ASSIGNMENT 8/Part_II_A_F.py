@@ -1,4 +1,3 @@
-##Your full name: Alexies Farinas
 ##Date of completion: 10/7/2020
 ##Brief explanation of the program: Nested loops to collect data and calculate
 ## the average rainfall over a period of years.
