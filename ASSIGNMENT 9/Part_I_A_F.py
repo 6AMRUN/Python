@@ -1,4 +1,3 @@
-##Your full name: Alexies Farinas
 ##Date of completion: 10/7/2020
 ##Brief explanation of the program: Program that accepts two integers from a
 ## user and uses the function mx to find out the larger number
