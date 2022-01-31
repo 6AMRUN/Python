@@ -1,4 +1,3 @@
-# Alexies Farinas
 # 10/11/2020
 # Program reads txt file, calculates the average and total, outputs an error whenever data is wrong
 
