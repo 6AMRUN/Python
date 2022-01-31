@@ -1,4 +1,3 @@
-##Your full name: Alexies Farinas
 ##Date of completion: 10/7/2020
 ##Brief explanation of the program: Program generates 100 random numbers
 ## and counts how many of the random numbers are even and how many of them are
