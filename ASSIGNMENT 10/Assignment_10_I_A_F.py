@@ -1,4 +1,3 @@
-# Alexies Farinas
 # 10/11/2020
 # Program opens notepad, user inputs 10 numbers, notepad is saved as a txt file.
 
